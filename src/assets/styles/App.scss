@@ -48,7 +48,7 @@ p {
     margin: 10px;
     border-radius: 10px;
     box-shadow: 1px 1px 3px rgba(0,0,0,0.5);
-    border: 2px solid #FFFFFF; /* Параметры границы */
+    border: 2px solid #FFFFFF; 
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
@@ -222,7 +222,7 @@ p {
 
     .btn-yes {
         border-radius: 5px;
-        background-color: #52BE80;
+        background-color: #5259be;
         width: 50px;
         height: 30px;
         cursor: pointer;
@@ -230,7 +230,7 @@ p {
 
     .btn-no {
         border-radius: 5px;
-        background-color: #FF5733;
+        background-color: #3369ff;
         width: 50px;
         height: 30px;
         cursor: pointer;
