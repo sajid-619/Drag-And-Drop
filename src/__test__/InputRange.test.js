@@ -1,6 +1,6 @@
 import React from "react";
 import { shallow } from "enzyme";
-import InputRange from "../components/inputRange";
+import InputRange from "../components/InputRange";
 
 const setUp = (props = {}) => {
   const component = shallow(<InputRange />);

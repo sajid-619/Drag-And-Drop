@@ -1,6 +1,6 @@
 import React from "react";
 import { shallow } from "enzyme";
-import ImageShape from "../components/imageShape";
+import ImageShape from "../components/ImageShape";
 
 const setUp = (props = {}) => {
   const component = shallow(<ImageShape />);
